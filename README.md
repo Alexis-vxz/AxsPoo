@@ -1,6 +1,5 @@
-# Ejercicios de Herencia 
+# Trabajos de Programacion Orientada a Objetos 
 
-##Vásquez Sánchez Alexis
+## Vásquez Sánchez Alexis
 
-###En estos archivos se muestra unos ejercicios donde podemos apreciar como funcoina 
-la herencia en la Programa Orientada a Objetos
+### En este apartado encontraras ejercicios basicos de POO
